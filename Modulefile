@@ -1,10 +1,10 @@
 name          'doismellburning-beanstalkd'
 version       '1.0.0'
-source        ''
+source        'https://github.com/doismellburning/puppet-beanstalkd.git'
 author        'doismellburning'
 license       'MIT'
 summary       'Puppet module to manage beanstalkd'
 description   'Module for beanstalkd configuration'
-project_page  'UNKNOWN'
+project_page  'https://github.com/doismellburning/puppet-beanstalkd'
 
 dependency 'puppetlabs/stdlib', '>= 3.0.0'
